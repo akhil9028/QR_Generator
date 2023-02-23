@@ -107,6 +107,9 @@ h3{
 
     .image{
         width: 140px;
+        position: relative;
+        bottom: 20px;
+        right: 13px;
     }
    .inp{
     border-radius: 2cqh;
