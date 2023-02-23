@@ -1,10 +1,11 @@
 
 body{
-    background-color: rgb(96, 188, 224) ;
+    background-color: rgb(60, 182, 230) ;
 }
 
 .box{
 
+        
     justify-content: center;
     box-sizing: border-box;
     /* border: 3px solid black; */
@@ -49,7 +50,7 @@ body{
     font-weight: 500;
     border-radius: 10%;
     border-radius: 0.5cqi;
-    color: rgb(15, 8, 8);
+    color: white;
     background-color: rgb(119, 204, 238);
 
     /* display: block; */
@@ -89,17 +90,16 @@ h3{
 
 @media(max-width:500px){
 
-
     .box{
         
         border-radius: 2cqi;
         padding-bottom: 2%;
         width: 300px;
         margin-top: 25%;
-   }
+    }
 
     .imgdiv{
-        border-radius: 2cqi;
+        border-radius: 2cqh;
         width:200px;
         height: 180px;
     }
@@ -118,7 +118,7 @@ h3{
 
    .but{
     border-radius: 2cqi;
-    
+    color: white;
    }
 
 
