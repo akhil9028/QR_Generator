@@ -96,8 +96,8 @@ h3{
         border-radius: 2cqh;
         padding-bottom: 2%;
         width: 300px;
-
-    }
+        margin-top: 25%;
+   }
 
     .imgdiv{
         border-radius: 2cqh;
@@ -113,6 +113,7 @@ h3{
     }
    .inp{
     border-radius: 2cqh;
+    width: 280px;
 
    }
 
